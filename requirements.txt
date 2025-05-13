@@ -1,6 +1,6 @@
 Pillow
 Streamlit
-torch
 torchvision
 requests
 transformers
+torch
